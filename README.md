@@ -16,7 +16,6 @@ It helps stakeholders understand:
 ---
 
 ## 🖼 Dashboard Preview
-
 ![BMW Dashboard](bmwsalesdashboard.png)
 
 ---
